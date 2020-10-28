@@ -10,7 +10,7 @@
   <img align="left" alt="Monodeep Das | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-- 🔭 I’m currently working on building algo trading platforms and scaling things up to cater to a larger audience base.
+- 🔭 I’m currently working as a Software Development Engineer at Rheo, building India's first streaming and eSports platform.
 - 🌱 I’m currently learning to build highly scalable and robust systems.
 - 👯 I’m looking to collaborate on any Software Engineering projects that I find very impactful and scalable !
 - 🤔 I’m looking for help with understanding distributed systems.
