@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Monodeep Das!](https://monodeepdas1215.github.io/monodeep-cv/)
+### Hi there 👋, I'm [Monodeep Das](https://monodeepdas1215.github.io/monodeep-cv/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monodeepdas1215" alt="monodeepdas1215" /> </p>
 
